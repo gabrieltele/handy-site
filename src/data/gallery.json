@@ -1,0 +1,501 @@
+{
+ "iphone-17-pro-max": {
+  "images": [
+   {
+    "label": "Laranja-cósmico",
+    "src": "/images/produtos/iphone-17-pro-max/cosmic-orange.webp",
+    "hex": "#F8833E"
+   },
+   {
+    "label": "Azul-intenso",
+    "src": "/images/produtos/iphone-17-pro-max/deep-blue.webp",
+    "hex": "#4A5680"
+   },
+   {
+    "label": "Prateado",
+    "src": "/images/produtos/iphone-17-pro-max/silver.webp",
+    "hex": "#E7E7E7"
+   }
+  ],
+  "specs": {
+   "chip": "A19 Pro",
+   "lancamento": "2025"
+  }
+ },
+ "iphone-17-pro": {
+  "images": [
+   {
+    "label": "Laranja-cósmico",
+    "src": "/images/produtos/iphone-17-pro/cosmic-orange.webp",
+    "hex": "#F8833E"
+   },
+   {
+    "label": "Azul-intenso",
+    "src": "/images/produtos/iphone-17-pro/deep-blue.webp",
+    "hex": "#4A5680"
+   },
+   {
+    "label": "Prateado",
+    "src": "/images/produtos/iphone-17-pro/silver.webp",
+    "hex": "#E7E7E7"
+   }
+  ],
+  "specs": {
+   "chip": "A19 Pro",
+   "lancamento": "2025"
+  }
+ },
+ "iphone-air": {
+  "images": [
+   {
+    "label": "Branco-nuvem",
+    "src": "/images/produtos/iphone-air/cloud-white.webp",
+    "hex": "#FCFCFC"
+   },
+   {
+    "label": "Dourado-claro",
+    "src": "/images/produtos/iphone-air/light-gold.webp",
+    "hex": "#FAF2E5"
+   },
+   {
+    "label": "Azul-céu",
+    "src": "/images/produtos/iphone-air/sky-blue.webp",
+    "hex": "#E5F2FA"
+   },
+   {
+    "label": "Preto-espacial",
+    "src": "/images/produtos/iphone-air/space-black.webp",
+    "hex": "#0E0E0E"
+   }
+  ],
+  "specs": {
+   "chip": "A19 Pro",
+   "lancamento": "2025"
+  }
+ },
+ "iphone-17": {
+  "images": [
+   {
+    "label": "Preto",
+    "src": "/images/produtos/iphone-17/black.webp",
+    "hex": "#464747"
+   },
+   {
+    "label": "Lavanda",
+    "src": "/images/produtos/iphone-17/lavender.webp",
+    "hex": "#E7D7F2"
+   },
+   {
+    "label": "Azul-névoa",
+    "src": "/images/produtos/iphone-17/mist-blue.webp",
+    "hex": "#A6BDDD"
+   },
+   {
+    "label": "Sálvia",
+    "src": "/images/produtos/iphone-17/sage.webp",
+    "hex": "#BAC79C"
+   },
+   {
+    "label": "Branco",
+    "src": "/images/produtos/iphone-17/white.webp",
+    "hex": "#F7F7F5"
+   }
+  ],
+  "specs": {
+   "chip": "A19",
+   "lancamento": "2025"
+  }
+ },
+ "iphone-17e": {
+  "images": [
+   {
+    "label": "Preto",
+    "src": "/images/produtos/iphone-17e/black.webp",
+    "hex": "#404040"
+   },
+   {
+    "label": "Rosa-suave",
+    "src": "/images/produtos/iphone-17e/soft-pink.webp",
+    "hex": "#FCE7E6"
+   },
+   {
+    "label": "Branco",
+    "src": "/images/produtos/iphone-17e/white.webp",
+    "hex": "#F6F6F4"
+   }
+  ],
+  "specs": {
+   "chip": "A19",
+   "lancamento": "2026"
+  }
+ },
+ "iphone-seminovo": {
+  "images": [
+   {
+    "label": "Titânio preto",
+    "src": "/images/produtos/iphone-seminovo/black-titanium.webp",
+    "hex": "#4F4F4F"
+   },
+   {
+    "label": "Titânio deserto",
+    "src": "/images/produtos/iphone-seminovo/desert-titanium.webp",
+    "hex": "#EBD8C8"
+   },
+   {
+    "label": "Titânio natural",
+    "src": "/images/produtos/iphone-seminovo/natural-titanium.webp",
+    "hex": "#CBC7C0"
+   },
+   {
+    "label": "Titânio branco",
+    "src": "/images/produtos/iphone-seminovo/white-titanium.webp",
+    "hex": "#ECECEA"
+   }
+  ],
+  "specs": {
+   "chip": "A18 Pro",
+   "lancamento": "2024"
+  }
+ },
+ "apple-watch-series-11": {
+  "images": [
+   {
+    "label": "Preto brilhante",
+    "src": "/images/produtos/apple-watch-series-11/jet-black.webp",
+    "hex": "#0A0A0A"
+   },
+   {
+    "label": "Ouro rosa",
+    "src": "/images/produtos/apple-watch-series-11/rose-gold.webp",
+    "hex": "#A58377"
+   },
+   {
+    "label": "Prateado",
+    "src": "/images/produtos/apple-watch-series-11/silver.webp",
+    "hex": "#9C9C9E"
+   },
+   {
+    "label": "Cinza-espacial",
+    "src": "/images/produtos/apple-watch-series-11/space-gray.webp",
+    "hex": "#6C6B69"
+   }
+  ],
+  "specs": {
+   "chip": "S10",
+   "lancamento": "2025"
+  }
+ },
+ "apple-watch-se-3": {
+  "images": [
+   {
+    "label": "Meia-noite",
+    "src": "/images/produtos/apple-watch-se-3/midnight.webp",
+    "hex": "#161B21"
+   },
+   {
+    "label": "Estelar",
+    "src": "/images/produtos/apple-watch-se-3/starlight.webp",
+    "hex": "#A1948C"
+   }
+  ],
+  "specs": {
+   "chip": "S10",
+   "lancamento": "2025"
+  }
+ },
+ "ipad-pro": {
+  "images": [
+   {
+    "label": "Prateado",
+    "src": "/images/produtos/ipad-pro/silver.webp",
+    "hex": "#BEBFC0"
+   },
+   {
+    "label": "Preto-espacial",
+    "src": "/images/produtos/ipad-pro/space-black.webp",
+    "hex": "#262326"
+   }
+  ],
+  "specs": {
+   "chip": "M4",
+   "lancamento": "2024"
+  }
+ },
+ "ipad-mini": {
+  "images": [
+   {
+    "label": "Azul",
+    "src": "/images/produtos/ipad-mini/blue.webp",
+    "hex": "#9FB6B8"
+   },
+   {
+    "label": "Roxo",
+    "src": "/images/produtos/ipad-mini/purple.webp",
+    "hex": "#C4BCC8"
+   },
+   {
+    "label": "Cinza-espacial",
+    "src": "/images/produtos/ipad-mini/space-gray.webp",
+    "hex": "#555456"
+   },
+   {
+    "label": "Estelar",
+    "src": "/images/produtos/ipad-mini/starlight.webp",
+    "hex": "#CCC5BC"
+   }
+  ],
+  "specs": {
+   "chip": "A17 Pro",
+   "lancamento": "2024"
+  }
+ },
+ "macbook-air": {
+  "images": [
+   {
+    "label": "Meia-noite",
+    "src": "/images/produtos/macbook-air/midnight.webp",
+    "hex": "#292E37"
+   },
+   {
+    "label": "Prateado",
+    "src": "/images/produtos/macbook-air/silver.webp",
+    "hex": "#ABABAE"
+   },
+   {
+    "label": "Azul-céu",
+    "src": "/images/produtos/macbook-air/sky-blue.webp",
+    "hex": "#ACB6BC"
+   },
+   {
+    "label": "Estelar",
+    "src": "/images/produtos/macbook-air/starlight.webp",
+    "hex": "#BDB6AC"
+   }
+  ],
+  "specs": {
+   "chip": "M4",
+   "lancamento": "2025"
+  }
+ },
+ "macbook-pro": {
+  "images": [
+   {
+    "label": "Prateado",
+    "src": "/images/produtos/macbook-pro/silver.webp",
+    "hex": "#B9BABC"
+   },
+   {
+    "label": "Preto-espacial",
+    "src": "/images/produtos/macbook-pro/space-black.webp",
+    "hex": "#2C292B"
+   }
+  ],
+  "specs": {
+   "chip": "M3 Pro",
+   "lancamento": "2023"
+  }
+ },
+ "airpods-max": {
+  "images": [
+   {
+    "label": "Azul",
+    "src": "/images/produtos/airpods-max/blue.webp",
+    "hex": "#64727D"
+   },
+   {
+    "label": "Meia-noite",
+    "src": "/images/produtos/airpods-max/midnight.webp",
+    "hex": "#22252B"
+   },
+   {
+    "label": "Laranja",
+    "src": "/images/produtos/airpods-max/orange.webp",
+    "hex": "#FFC09E"
+   },
+   {
+    "label": "Roxo",
+    "src": "/images/produtos/airpods-max/purple.webp",
+    "hex": "#DAD8E1"
+   },
+   {
+    "label": "Estelar",
+    "src": "/images/produtos/airpods-max/starlight.webp",
+    "hex": "#EAE1D4"
+   }
+  ],
+  "specs": {
+   "chip": "H1",
+   "lancamento": "2024"
+  }
+ },
+ "airpods-pro-3": {
+  "images": [
+   {
+    "label": "Fone esquerdo",
+    "src": "/images/produtos/airpods-pro-3/fone-esquerdo.webp",
+    "hex": null
+   },
+   {
+    "label": "Fone direito",
+    "src": "/images/produtos/airpods-pro-3/fone-direito.webp",
+    "hex": null
+   }
+  ],
+  "specs": {
+   "chip": "H2",
+   "lancamento": "2025"
+  }
+ },
+ "airpods-4": {
+  "images": [
+   {
+    "label": "Estojo de recarga",
+    "src": "/images/produtos/airpods-4/estojo-de-recarga.webp",
+    "hex": null
+   },
+   {
+    "label": "Fone esquerdo",
+    "src": "/images/produtos/airpods-4/fone-esquerdo.webp",
+    "hex": null
+   },
+   {
+    "label": "Fone direito",
+    "src": "/images/produtos/airpods-4/fone-direito.webp",
+    "hex": null
+   }
+  ],
+  "specs": {
+   "chip": "H2",
+   "lancamento": "2024"
+  }
+ },
+ "capa-silicone-magsafe": {
+  "images": [
+   {
+    "label": "Preto",
+    "src": "/images/produtos/capa-silicone-magsafe/black.webp",
+    "hex": "#393C3B"
+   },
+   {
+    "label": "Goiaba",
+    "src": "/images/produtos/capa-silicone-magsafe/bright-guava.webp",
+    "hex": "#FD767C"
+   },
+   {
+    "label": "Meia-noite",
+    "src": "/images/produtos/capa-silicone-magsafe/midnight.webp",
+    "hex": "#37404F"
+   },
+   {
+    "label": "Laranja",
+    "src": "/images/produtos/capa-silicone-magsafe/orange.webp",
+    "hex": "#FE7E47"
+   },
+   {
+    "label": "Roxo-névoa",
+    "src": "/images/produtos/capa-silicone-magsafe/purple-fog.webp",
+    "hex": "#635A75"
+   },
+   {
+    "label": "Terracota",
+    "src": "/images/produtos/capa-silicone-magsafe/terra-cotta.webp",
+    "hex": "#B86547"
+   },
+   {
+    "label": "Baunilha",
+    "src": "/images/produtos/capa-silicone-magsafe/vanilla.webp",
+    "hex": "#FFF0DE"
+   }
+  ],
+  "specs": {
+   "lancamento": "2025"
+  }
+ },
+ "capa-techwoven-magsafe": {
+  "images": [
+   {
+    "label": "Preto",
+    "src": "/images/produtos/capa-techwoven-magsafe/black.webp",
+    "hex": "#363636"
+   },
+   {
+    "label": "Azul",
+    "src": "/images/produtos/capa-techwoven-magsafe/blue.webp",
+    "hex": "#425163"
+   },
+   {
+    "label": "Verde",
+    "src": "/images/produtos/capa-techwoven-magsafe/green.webp",
+    "hex": "#656D46"
+   },
+   {
+    "label": "Roxo",
+    "src": "/images/produtos/capa-techwoven-magsafe/purple.webp",
+    "hex": "#4C4553"
+   },
+   {
+    "label": "Siena",
+    "src": "/images/produtos/capa-techwoven-magsafe/sienna.webp",
+    "hex": "#9A593D"
+   }
+  ],
+  "specs": {
+   "lancamento": "2025"
+  }
+ },
+ "carregador-magsafe": {
+  "images": [
+   {
+    "label": "Carregador MagSafe",
+    "src": "/images/produtos/carregador-magsafe/carregador-magsafe.webp",
+    "hex": null
+   },
+   {
+    "label": "Versão com cabo de 1 m",
+    "src": "/images/produtos/carregador-magsafe/versao-com-cabo-de-1-m.webp",
+    "hex": null
+   }
+  ],
+  "specs": {}
+ },
+ "cabo-usb-c-lightning": {
+  "images": [
+   {
+    "label": "Cabo de 1 m",
+    "src": "/images/produtos/cabo-usb-c-lightning/cabo-de-1-m.webp",
+    "hex": null
+   },
+   {
+    "label": "Cabo de 2 m",
+    "src": "/images/produtos/cabo-usb-c-lightning/cabo-de-2-m.webp",
+    "hex": null
+   }
+  ],
+  "specs": {}
+ },
+ "magic-keyboard": {
+  "images": [
+   {
+    "label": "Branco",
+    "src": "/images/produtos/magic-keyboard/white.webp",
+    "hex": null
+   }
+  ],
+  "specs": {}
+ },
+ "magic-mouse": {
+  "images": [
+   {
+    "label": "Preto",
+    "src": "/images/produtos/magic-mouse/black.webp",
+    "hex": null
+   },
+   {
+    "label": "Branco",
+    "src": "/images/produtos/magic-mouse/white.webp",
+    "hex": null
+   }
+  ],
+  "specs": {}
+ }
+}
