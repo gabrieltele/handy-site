@@ -19,12 +19,6 @@ npm run images   # otimiza fotos novas (AVIF/WebP + versões para celular)
 
 A pasta `dist/` pode ser publicada em qualquer hospedagem estática (Vercel, Netlify, Hostinger etc.).
 
-### GitHub Pages
-
-O workflow `.github/workflows/deploy.yml` gera o site e publica na branch `gh-pages` a cada push na `main`.
-Na primeira vez, em **Settings → Pages**, escolha **Deploy from a branch** → `gh-pages` / `(root)`.
-O site fica em `https://<usuario>.github.io/<repositorio>/`.
-
 ### Variáveis de ambiente (`.env`)
 
 | Variável | Uso |
